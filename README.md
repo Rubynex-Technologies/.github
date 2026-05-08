@@ -1,7 +1,4 @@
 # Rubynex Technologies
-Organization profile and public introduction for Rubynex Technologies.
-
-# Rubynex Technologies
 
 Rubynex Technologies builds scalable SaaS platforms, AI-powered systems, enterprise-grade backend applications, and secure digital solutions.
 
